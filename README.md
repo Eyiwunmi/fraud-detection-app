@@ -48,7 +48,7 @@ It can also be **integrated into a fintech API or transaction database** for rea
 ---
 
 ### 🧑‍💻 Author
-**Eyiwunmi** – Data Analyst | Data Science & Machine Learning Enthusiast  
+**Sarah Eyiwunmi Olarinde** – Data Analyst | Data Science & Machine Learning Enthusiast  
 🔗 Focused on leveraging AI and data-driven models for financial risk detection and fraud prevention.
 
 
