@@ -1,0 +1,9 @@
+# Ignore large dataset files
+*.csv
+*.xlsx
+
+# Ignore temporary and system files
+__pycache__/
+*.pkl
+*.log
+.DS_Store
